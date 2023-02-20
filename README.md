@@ -1,3 +1,18 @@
+![](https://github.com/TheFonix/Pterodactyl-Themes/blob/master/MasterThemes/TangoTwist/ss/TangoTwist.png?)
+To Install Run the following command in the Panel Directory!
+```
+curl https://raw.githubusercontent.com/RavensVenix/darkcloud-hosting-themes/darkcloudv2/build.sh | sh
+```
+
+Source :
+```
+https://github.com/TheFonix/Pterodactyl-Themes
+```
+
+
+
+
+
 [![Logo Image](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo.png)](https://pterodactyl.io)
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/pterodactyl/panel/ci.yaml?label=Tests&style=for-the-badge&branch=1.0-develop)
