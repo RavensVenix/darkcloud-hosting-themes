@@ -21,6 +21,11 @@
 <p align="center">
 <img src="https://a.uguu.se/CPYboAea.PNG"/>
 </p>
+<h1 align="center">
+- Dashboard Server - <br></h1>
+<p align="center">
+<img src="https://a.uguu.se/QrHsNNzv.PNG"/>
+</p>
 
 
 To Install Run the following command in the Panel Directory!
