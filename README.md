@@ -16,6 +16,11 @@
 <p align="center">
 <img src="https://a.uguu.se/hrKNhkTm.PNG"/>
 </p>
+<h1 align="center">
+- Admin Control - <br></h1>
+<p align="center">
+<img src="https://a.uguu.se/CPYboAea.PNG"/>
+</p>
 
 
 To Install Run the following command in the Panel Directory!
