@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/SKvK6GDv/Capture.png?)
+![Login Panel](https://a.uguu.se/AOVkMDEG.PNG)
 To Install Run the following command in the Panel Directory!
 ```
 curl https://raw.githubusercontent.com/RavensVenix/darkcloud-hosting-themes/v1.8.0/build.sh | sh
