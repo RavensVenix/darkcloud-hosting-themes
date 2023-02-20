@@ -38,28 +38,18 @@ export default ({ className }: PowerButtonProps) => {
 
     return (
         <div className={className}>
-            <Dialog.Confirm
-                open={open}
-                hideCloseIcon
-                onClose={() => setOpen(false)}
-                title={'Forcibly Stop Process'}
-                confirm={'Continue'}
-                onConfirmed={onButtonClick.bind(this, 'kill-confirmed')}
-            >
-                Forcibly stopping a server can lead to data corruption.
-            </Dialog.Confirm>
             <Can action={'control.start'}>
                 <Button
                     className={'flex-1'}
                     disabled={status !== 'offline'}
                     onClick={onButtonClick.bind(this, 'start')}
                 >
-                    Start
+                    Start | Mulai
                 </Button>
             </Can>
             <Can action={'control.restart'}>
                 <Button.Text className={'flex-1'} disabled={!status} onClick={onButtonClick.bind(this, 'restart')}>
-                    Restart
+                    Restart | Mulai ulang
                 </Button.Text>
             </Can>
             <Can action={'control.stop'}>
