@@ -8,6 +8,11 @@
 <p align="center">
 <img src="https://a.uguu.se/btpHkRWo.PNG"/>
 </p>
+<h1 align="center">
+- Dashboard - <br></h1>
+<p align="center">
+<img src="https://a.uguu.se/wbnqjUuk.PNG"/>
+</p>
 
 
 To Install Run the following command in the Panel Directory!
