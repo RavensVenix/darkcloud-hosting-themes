@@ -1,0 +1,50 @@
+{
+  "console.js": {
+    "src": "/assets/console.c024d878.js",
+    "integrity": "sha384-xBl5Zjs+KK0odXOrQFYJdxrgbmJF2louwMh7rIfKW7Q9wqW3gtTk3jk/ipp6NhcR"
+  },
+  "editor.js": {
+    "src": "/assets/editor.622acb63.js",
+    "integrity": "sha384-GzsI5dPykLBmY/bBtQdmPDnzWY8QoX1YbzU0laR9E9vDftGDcfcCCyuKmtwpBwVE"
+  },
+  "feature.eula.js": {
+    "src": "/assets/feature.eula.f596d5a1.js",
+    "integrity": "sha384-k8qxW9YpCMyGUCtqF91+h0/dO/eOa3/tm1Pz/e3QTz/oBUxcZOTYVV7Zx5SAgGpQ"
+  },
+  "feature.gsl_token.js": {
+    "src": "/assets/feature.gsl_token.e74bc2da.js",
+    "integrity": "sha384-abkxWbAeEZUYpiHSSqmlSdiGf9nlyE6HKrmTafNyacWcxGRk4nCaVf8L7KvB9qNZ"
+  },
+  "feature.java_version.js": {
+    "src": "/assets/feature.java_version.bdaa8a4f.js",
+    "integrity": "sha384-0druS02XhqF5iwheRHFKUKCHfKc+wuzYsimszFoGPSb9J8LDzirDNXSCgaf7fx7z"
+  },
+  "feature.pid_limit.js": {
+    "src": "/assets/feature.pid_limit.77c9b085.js",
+    "integrity": "sha384-WJSp52YaCIwmyidYSyBn5aXwdZ/yWDSmEDCW1j5y9j9IFOPMCd2l3umoGZv/M2c7"
+  },
+  "feature.steam_disk_space.js": {
+    "src": "/assets/feature.steam_disk_space.b794f89a.js",
+    "integrity": "sha384-ctfU9+glipoNww4JoqYLlJbNg19/mjmGDO/P1toExbk1i+gOY2xSagTs53jcEptQ"
+  },
+  "graphs.js": {
+    "src": "/assets/graphs.3cef4d75.js",
+    "integrity": "sha384-BbztuVo5AN2dFl3jDrUQa2sUw5oDq0UWgwXa7WX+xMosB04DlTx+kEgkN0K8vHkt"
+  },
+  "main.js": {
+    "src": "/assets/bundle.9db813cb.js",
+    "integrity": "sha384-H4z2i3abaVVKUB/gJNJuYKBeb5xcjSs5LFnBemQSY5D9lr95IDzINsBbVeHe55g8"
+  },
+  "vendors~console.js": {
+    "src": "/assets/vendors~console.0ac2a8f2.js",
+    "integrity": "sha384-1ladReKNRIEXhyJgeTzbBEq69NxgRGpQ77aaTjcflrxF2782iveLX88G9nAS+TWM"
+  },
+  "vendors~editor.js": {
+    "src": "/assets/vendors~editor.f252d5ec.js",
+    "integrity": "sha384-0uvOqG+vbbDrkLkek2yDIBRimrzXIc6nXWke5kwt0JwBB40YXrtl19DYvnfR071H"
+  },
+  "vendors~graphs.js": {
+    "src": "/assets/vendors~graphs.c9149645.js",
+    "integrity": "sha384-iVMiN1SZX3syRHtTpoaAmFHG9yesHLsxMeymXlLdcW3wmu58oIY/zwovWTPNfKl4"
+  }
+}
