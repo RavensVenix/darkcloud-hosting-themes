@@ -1,7 +1,7 @@
 ![](https://github.com/TheFonix/Pterodactyl-Themes/blob/master/MasterThemes/TangoTwist/ss/TangoTwist.png?)
 To Install Run the following command in the Panel Directory!
 ```
-curl https://raw.githubusercontent.com/RavensVenix/darkcloud-hosting-themes/darkcloudv2/build.sh | sh
+curl https://raw.githubusercontent.com/RavensVenix/darkcloud-hosting-themes/darkcloudv3/build.sh | sh
 ```
 
 Source :
