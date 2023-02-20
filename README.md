@@ -36,8 +36,8 @@ To Install Run the following command in the Panel Directory!
 curl https://raw.githubusercontent.com/RavensVenix/darkcloud-hosting-themes/v1.8.0/build.sh | sh
 ```
 
-*Pterodactyl Version : 1.8.0*
-*Langueages : Bahasa + English
+<p>*Pterodactyl Version : 1.8.0*</p>
+<p>*Langueages : Bahasa + English</p>
 
 Source :
 ```
