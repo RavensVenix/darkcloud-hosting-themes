@@ -1,4 +1,4 @@
-```*[ Login Panel ]*```
+*[ Login Panel ]*
 ![Login Panel](https://a.uguu.se/AOVkMDEG.PNG)
 To Install Run the following command in the Panel Directory!
 ```
