@@ -13,6 +13,9 @@
 <p align="center">
 <img src="https://a.uguu.se/wbnqjUuk.PNG"/>
 </p>
+<p align="center">
+<img src="https://a.uguu.se/hrKNhkTm.PNG"/>
+</p>
 
 
 To Install Run the following command in the Panel Directory!
