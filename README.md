@@ -24,7 +24,10 @@
 <h1 align="center">
 - Dashboard Server - <br></h1>
 <p align="center">
-<img src="https://a.uguu.se/QrHsNNzv.PNG"/>
+<img src="https://a.uguu.se/SKeKhVvM.PNG"/>
+</p>
+<p align="center">
+<img src="https://a.uguu.se/HMbGUwqX.PNG"/>
 </p>
 
 
