@@ -20,9 +20,9 @@ import 'xterm/css/xterm.css';
 import styles from './style.module.css';
 
 const theme = {
-    background: th`colors.black`.toString(),
+    background: url(https://i.postimg.cc/HWQNXdcX/976013.jpg),
     cursor: 'transparent',
-    black: th`colors.black`.toString(),
+    black: url(https://i.postimg.cc/HWQNXdcX/976013.jpg),
     red: '#E54B4B',
     green: '#9ECE58',
     yellow: '#FAED70',
@@ -90,7 +90,7 @@ export default () => {
         );
 
     const handlePowerChangeEvent = (state: string) =>
-        terminal.writeln(TERMINAL_PRELUDE + 'Server marked as ' + state + '...\u001b[0m');
+        terminal.writeln(TERMINAL_PRELUDE + 'Server marked as | Server ditandai sebagai' + state + '...\u001b[0m');
 
     const handleCommandKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
         if (e.key === 'ArrowUp') {
@@ -206,7 +206,7 @@ export default () => {
                     <input
                         className={classNames('peer', styles.command_input)}
                         type={'text'}
-                        placeholder={'Type a command...'}
+                        placeholder={'Type a command Here. | Ketik perintah disini.'}
                         aria-label={'Console command input.'}
                         disabled={!instance || !connected}
                         onKeyDown={handleCommandKeyDown}
